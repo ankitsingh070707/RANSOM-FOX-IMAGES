@@ -39,3 +39,10 @@
     font-size: 20px;
     color: #fff;
 }
+
+
+@media(max-width: 500px){
+    .container {
+        gap: 210px;
+    }
+}
