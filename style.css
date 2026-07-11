@@ -43,6 +43,6 @@
 
 @media(max-width: 500px){
     .container {
-        gap: 210px;
+        gap: 140px;
     }
 }
